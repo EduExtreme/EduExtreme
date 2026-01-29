@@ -70,7 +70,7 @@
 
 ### 🚀 Resumo Técnico
 
-Especialista em **Front-End** com forte base Full-Stack. Meu foco é criar interfaces que não apenas funcionam, mas encantam. Tenho paixão por **Design Systems**, arquitetura de componentes escaláveis e testes automatizados. Como Tech Lead, garanto que o código seja limpo, performático e acessível.
+Especialista em **Front-End** com amplo conhecimento tambem nas tecnologias para ser Full-Stack caso precise. Meu foco é criar interfaces que não apenas funcionam, mas encantam. Tenho paixão por **Design Systems**, arquitetura de componentes escaláveis e testes automatizados. Garanto que o código seja limpo, performático e acessível.
 
 ---
 
