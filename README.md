@@ -77,7 +77,7 @@ Especialista em **Front-End** com forte base Full-Stack. Meu foco é criar inter
 ### 💼 Experiência Profissional
 
 #### 🏢 **Navegam - Soluções em Mobilidade**
-**Tech Lead & Front-End Architect** | *Mar/2024 - Atual*
+**Squad Lead & Front-End Engineer** | *Mar/2024 - Atual*
 
 * ⚛️ **Arquitetura React:** Lidero a construção de interfaces complexas para SaaS e E-commerces, definindo padrões de código e estrutura de pastas.
 * 🎨 **Design System:** Implementação de bibliotecas de componentes reutilizáveis utilizando **Storybook** e **Tailwind**.
