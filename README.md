@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou o Eduardo André! 👋</h1>
 
 <p align="center">
-  <b>Front-End Specialist | Tech Lead | React Ecosystem Expert</b>
+  <b>Front-End Specialist | React Ecosystem Expert</b>
 </p>
 
 <p align="center">
